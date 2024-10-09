@@ -1,3 +1,7 @@
+// Time: 2024/10/9 16:15
+// Algorthim: Trie, DP
+// Type: the 2nd problem in test at 10.9
+
 #include <bits/stdc++.h>
 using namespace std;
 const int N = 1e6 + 10;
